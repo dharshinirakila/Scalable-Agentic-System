@@ -1,5 +1,3 @@
-# Scalable Agentic System
-
 A runnable Python prototype for the scalable agentic-system assignment.
 
 It demonstrates:
